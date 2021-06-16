@@ -1,0 +1,3 @@
+[submodule "coverage_utils"]
+	path = coverage_utils
+	url = https://github.com/nkarapetyan/coverage_utils.git
